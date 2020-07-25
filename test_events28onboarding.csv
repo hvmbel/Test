@@ -1,0 +1,7 @@
+appmetrica_device_id,event_name,event_json,event_datetime
+"7823208773621374861,onboarding,""{""""user_group"""":{""""test_021_group_default"""":{""""type"""":{""""Security"""":{}}}}}"",2020-05-01 23:31:27"
+"581936067037863122,onboarding,""{""""user_group"""":{""""test_021_group_default"""":{""""type"""":{""""Security"""":{}}}}}"",2020-05-02 12:53:47"
+"6183767188204915808,onboarding,""{""""user_group"""":{""""test_021_group_human"""":{""""type"""":{""""FastPayment_human"""":{}}}}}"",2020-07-14 20:59:38"
+"10421055668195947021,onboarding,""{""""user_group"""":{""""test_021_group_human"""":{""""type"""":{""""FastPayment_human"""":{}}}}}"",2020-05-01 22:48:04"
+"16241749217799993216,onboarding,""{""""user_group"""":{""""test_021_group_default"""":{""""type"""":{""""Security"""":{}}}}}"",2020-05-01 06:28:58"
+"14307056848476574128,onboarding,""{""""user_group"""":{""""test_021_group_rub"""":{""""type"""":{""""FastPayment_rub"""":{}}}}}"",2020-05-02 13:03:09"
